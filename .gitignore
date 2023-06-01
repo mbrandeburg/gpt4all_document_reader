@@ -1,2 +1,4 @@
 models/*
+docs/*
 setup_capture/*
+.DS_Store
